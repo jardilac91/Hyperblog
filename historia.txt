@@ -2,4 +2,6 @@ Esta es la historia de Jorge Ardila.
 
 Jorge Ardila tiene 29 años y nació en Colombia.
 
+Este es el primer commit del usuario secundario de jorge ardila.
+
 Mañana nos enfocaremos en su vida laboral.
